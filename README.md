@@ -142,4 +142,4 @@ O caminho está fixo para o Windows. Em Linux ou macOS, altere o valor de `pasta
 
 ## 👤 Autor
 
-Desenvolvido por **SEU NOME** — [GitHub](https://github.com/SEU-USUARIO)
+Desenvolvido por **Eduardo Macedo** — [GitHub](https://github.com/SEU-USUARIO)
